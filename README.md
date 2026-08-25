@@ -31,7 +31,7 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Control%20Knobs.png" width="30"/> Identidade do sistema // Sobre Mim</h2>
       <p>
         Desenvolvedor focado em construir arquiteturas sólidas, interfaces intuitivas e sistemas de alto desempenho. Apaixonado por engenharia de software, otimização e novas tecnologias.
@@ -43,9 +43,8 @@
         <li>💬 <b>Networking:</b> Aberto a colaborações em projetos open-source e oportunidades inovadoras.</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- HUD Graphic com usuário correto -->
-      <img src="https://github-readme-stats.vercel.app/api?username=AliMohamadReda&theme=cyberpunk&show_icons=true&hide_border=true" width="100%" alt="HUD Graphic" />
+    <td width="45%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=AliMohamadReda&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" width="100%" alt="AliMohamadReda Stats" />
     </td>
   </tr>
 </table>
