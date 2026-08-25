@@ -32,7 +32,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Control%20Knobs.png" width="30"/> System Identity // Sobre Mim</h2>
+      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Control%20Knobs.png" width="30"/> Identidade do sistema // Sobre Mim</h2>
       <p>
         Desenvolvedor focado em construir arquiteturas sólidas, interfaces intuitivas e sistemas de alto desempenho. Apaixonado por engenharia de software, otimização e novas tecnologias.
       </p>
@@ -44,8 +44,8 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- HUD Visual Cyberpunk -->
-      <img src="https://my-readme-stats-git-master-s3rgio-r.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=cyberpunk&show_owner=false" width="100%" alt="HUD Graphic" />
+      <!-- HUD Graphic com usuário correto -->
+      <img src="https://github-readme-stats.vercel.app/api?username=AliMohamadReda&theme=cyberpunk&show_icons=true&hide_border=true" width="100%" alt="HUD Graphic" />
     </td>
   </tr>
 </table>
