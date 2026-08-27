@@ -149,7 +149,6 @@ Desenvolvedor de Software com foco em engenharia de sistemas, construção de AP
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -184,6 +183,7 @@ Desenvolvedor de Software com foco em engenharia de sistemas, construção de AP
 />
 <br/>
 
+---
 <div align="center">
   <a href="https://github.com/AliMohamadReda">
     <img height="190em" src="https://github-stats-extended.vercel.app/api?username=AliMohamadReda&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
