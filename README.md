@@ -183,3 +183,10 @@ Desenvolvedor de Software com foco em engenharia de sistemas, construção de AP
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
 <br/>
+
+<div align="center">
+  <a href="https://github.com/AliMohamadReda">
+    <img height="190em" src="https://github-stats-extended.vercel.app/api?username=AliMohamadReda&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+    <img height="190em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AliMohamadReda&layout=compact&langs_count=11&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  </a>
+</div>
