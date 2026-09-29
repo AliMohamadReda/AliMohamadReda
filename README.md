@@ -14,22 +14,27 @@
 
   <!-- Badges de Status do Sistema -->
   <a href="https://github.com/AliMohamadReda?tab=repositories">
-  <img 
-    title="Meus Projetos" 
-    src="https://custom-icon-badges.demolab.com/badge/repositorios-Ver%20Projetos-00f1fE?style=for-the-badge&logo=repo&logoColor=black&labelColor=fffff" 
-    alt="Repositórios"
-  />
+      <img 
+           title="Meus Projetos" 
+           src="https://custom-icon-badges.demolab.com/badge/repositorios-Ver%20Projetos-00f1fE?style=for-the-badge&logo=repo&logoColor=black&labelColor=fffff" 
+           alt="Repositórios" 
+      />
 </a>
-  <a href="https://www.linkedin.com/in/ali-reda-1074a0301/overlay/Certifications/999610159/treasury/?profileId=ACoAAE0i6pcBo8Kab5z8duKIvvOykCP8AgvSKNQ">
-    <img
-        title="Meus Certificados" 
-        src="https://img.shields.io/badge/🎓LINKEDIN-DIPLOMA-ff0055?style=for-the-badge&logo=&logoColor=ffffff" 
-    />
-  </a> 
-<img
-  title="Brasil​"
-  src="https://img.shields.io/badge/📍​LOCALIZAÇÃO-GASPAR, SC -00gg99?style=for-the-badge&logo=&logoColor=ffffff" alt="Localização" />
 
+  <a href="https://www.linkedin.com/in/ali-reda-1074a0301/overlay/Certifications/999610159/treasury/?profileId=ACoAAE0i6pcBo8Kab5z8duKIvvOykCP8AgvSKNQ">
+      <img
+          title="Meus Certificados" 
+          src="https://img.shields.io/badge/🎓LINKEDIN-DIPLOMA-ff0055?style=for-the-badge&logo=&logoColor=ffffff" 
+      />
+  </a> 
+  
+  <a href="https://www.google.com/maps/place/Gaspar,+SC/@-26.926277,-48.993466,13z/data=!3m1!4b1!4m6!3m5!1s0x94df24a491abf305:0x5e70391ecf5b681c!8m2!3d-26.9317642!4d-48.9549734!16s%2Fg%2F11bxfxbdtd?entry=ttu&g_ep=EgoyMDI2MDkyNy4wIKXMDSoASAFQAw%3D%3D">
+     <img
+         title="Brasil​"
+         src="https://img.shields.io/badge/📍​LOCALIZAÇÃO-GASPAR, SC -00gg99?style=for-the-badge&logo=&logoColor=ffffff" alt="Localização" 
+     />
+  </a>
+  
 </div>
 
 <br/>
